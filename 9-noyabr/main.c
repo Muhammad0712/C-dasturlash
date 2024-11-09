@@ -11,4 +11,4 @@ int main() {
 	}
 	printf("Kiritilgan so'zda %dta harf bor!\n", harf);
 	return 0;
-}
+} 
