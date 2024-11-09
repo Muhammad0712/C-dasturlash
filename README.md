@@ -1,0 +1,2 @@
+# C-dasturlash
+C lang
